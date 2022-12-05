@@ -1,0 +1,10 @@
+*{margin: 0;padding: 0;}
+
+.img1{
+    background-image: url(img_m/1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 428px;
+    height: 16845px;
+    background-size: 428px 16845px;
+}

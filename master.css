@@ -1,0 +1,141 @@
+*{margin: 0;padding: 0;}
+
+.warp1{
+}
+
+.img1{
+    position: relative;
+    background-image: url('img/1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1072px;
+}
+
+.img2{
+    position: relative;
+    background-image: url('img/2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1133px;
+}
+
+.img3{
+    position: relative;
+    background-image: url('img/3.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1080px;
+}
+
+.img4{
+    position: relative;
+    background-image: url('img/4.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1361px;
+    
+}
+
+.img5{
+    position: relative;
+    background-image: url('img/5.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 3076px;
+    
+}
+
+.img6{
+    position: relative;
+    background-image: url('img/6.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1080px;
+    
+}
+
+.img7{
+    position: relative;
+    background-image: url('img/7.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1346px;
+    
+}
+
+.img8{
+    position: relative;
+    background-image: url('img/8.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 4043px;
+    
+}
+
+.img9{
+    position: relative;
+    background-image: url('img/9.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1080px;
+    
+}
+
+.img10{
+    position: relative;
+    background-image: url('img/10.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1614px;
+    
+}
+
+.img11{
+    position: relative;
+    background-image: url('img/11.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1089px;
+    
+}
+
+.img12{
+    position: relative;
+    background-image: url('img/12.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 3125px;
+    
+}
+
+.img13{
+    position: relative;
+    background-image: url('img/13.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1081px;
+    
+}
+
+.img14{
+    position: relative;
+    background-image: url('img/14.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 3439px;
+    
+}
